@@ -1,20 +1,12 @@
 library: TEST_EX_SKY130A
 cell: TEST_EX
-# Your name
-author: Anonymous
-# Your github username
-github: analogicus
-# Something funny and descriptive
-tagline: The answer is 42
-# Your email, if you so wish
-email: anon@anon.com
-# Your github site, usually <github username>.github.io
-url: analogicus.github.io
+author: Mark Pude
+github: empeee
+tagline: Skywater 130 nm test
+url: empeee.github.io
 doc:
-  # Make docs
-  #libraries:
-  #   <library>:
-  #       - <cell>
-  #       - <cell>
+  libraries:
+    TEST_EX_SKY130A:
+      -TEST_EX
 sim:
-  # <simdir>: command
+
