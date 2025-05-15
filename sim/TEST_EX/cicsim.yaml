@@ -1,0 +1,9 @@
+options:
+  useTmpDir: False
+  sha: True
+corner:
+  Lay: ''
+  Sch: ''
+ngspice:
+  library: TEST_EX_SKY130A
+  cell: TEST_EX
