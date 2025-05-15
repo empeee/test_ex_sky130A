@@ -1,0 +1,2 @@
+source ../tech/magic/.magicrc
+addpath ../design/TEST_EX_SKY130A
