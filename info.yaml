@@ -9,4 +9,4 @@ doc:
     TEST_EX_SKY130A:
       -TEST_EX
 sim:
-
+  TEST_EX: make typical
